@@ -172,9 +172,3 @@ Install iis_express following these steps:
 
 * Download and install the latest student version of [TestDriven.Net](http://testdriven.net/download_release.aspx?LicenceType=Personal)
 
-
-#Optional Setup
-
-##Devtools
-
-If you want the same environment setup that I use (including autohotkey scripts, multi platform shell scripts etc), follow along with the setup outlined here (use the MSys instructions): [devtools](http://github.com/developwithpassion/devtools)
